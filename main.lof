@@ -1,0 +1,35 @@
+\select@language {english}
+\addcontentsline {toc}{chapter}{\hbox to\@tempdima {\hfil }List of Figures}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Input AC Sine Wave 145 kV\relax }}{4}{figure.caption.7}
+\contentsline {figure}{\numberline {1.1.2}{\ignorespaces Output AC Sine Wave 145 kV with Partial Discharge Pulses\relax }}{4}{figure.caption.8}
+\contentsline {figure}{\numberline {1.1.3}{\ignorespaces Treeing Process due to Partial Discharge\relax }}{5}{figure.caption.9}
+\contentsline {figure}{\numberline {1.1.4}{\ignorespaces Partial Discharge Waveform Due to Voids in Insulating Material\relax }}{6}{figure.caption.10}
+\contentsline {figure}{\numberline {1.4.1}{\ignorespaces High Voltage Transmission Line With Current Transformers\relax }}{11}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Partial Discharge\relax }}{24}{figure.caption.15}
+\contentsline {figure}{\numberline {2.5.1}{\ignorespaces Expert Partial Discharge Analyzer with Reflectometer \relax }}{32}{figure.caption.22}
+\contentsline {figure}{\numberline {2.5.2}{\ignorespaces Partial Discharge Analysis System\relax }}{33}{figure.caption.23}
+\contentsline {figure}{\numberline {2.5.3}{\ignorespaces Sensor DB-1\relax }}{34}{figure.caption.25}
+\contentsline {figure}{\numberline {2.5.4}{\ignorespaces Sensors for bushings of transformers\relax }}{35}{figure.caption.28}
+\contentsline {figure}{\numberline {2.5.5}{\ignorespaces Sensors DB-TT\relax }}{36}{figure.caption.30}
+\contentsline {figure}{\numberline {2.5.6}{\ignorespaces Types of RFCT Sensors to Detect Partial Discharge\relax }}{37}{figure.caption.31}
+\contentsline {figure}{\numberline {2.5.7}{\ignorespaces KS-60 sensors\relax }}{39}{figure.caption.37}
+\contentsline {figure}{\numberline {2.5.8}{\ignorespaces AR-1 sensor\relax }}{40}{figure.caption.38}
+\contentsline {figure}{\numberline {2.5.9}{\ignorespaces RT-1 isolating transformer\relax }}{41}{figure.caption.39}
+\contentsline {figure}{\numberline {2.5.10}{\ignorespaces GKI-2 calibration oscillator\relax }}{41}{figure.caption.40}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1.1}{\ignorespaces Simulation Model for High Voltage Current Transformers in Steady State Condition\relax }}{48}{figure.caption.44}
+\contentsline {figure}{\numberline {3.1.2}{\ignorespaces Simulation Model of PD Measurement in Transient Condition\relax }}{49}{figure.caption.45}
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Mathematical Model of High Voltage Current Transformer\relax }}{50}{figure.caption.46}
+\contentsline {figure}{\numberline {3.2.2}{\ignorespaces Dielectric Material With a Cavity\relax }}{52}{figure.caption.48}
+\contentsline {figure}{\numberline {3.2.3}{\ignorespaces Equivalent Circuit of a Cavity Enclosed in a Solid Insulating Material\relax }}{53}{figure.caption.49}
+\contentsline {figure}{\numberline {3.2.4}{\ignorespaces Representation of Void in Oil Filled Current Transformer\relax }}{54}{figure.caption.50}
+\contentsline {figure}{\numberline {3.2.5}{\ignorespaces Electrical Circuit for Principle of PD Measurement\relax }}{55}{figure.caption.52}
+\contentsline {figure}{\numberline {3.2.6}{\ignorespaces Conventional PD measurement\relax }}{56}{figure.caption.53}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1.1}{\ignorespaces Sine Wave of Partial Discharge \relax }}{70}{figure.caption.67}
+\contentsline {figure}{\numberline {4.1.2}{\ignorespaces Partial Discharges in Sinusoidal Waveform\relax }}{71}{figure.caption.68}
+\contentsline {figure}{\numberline {4.1.3}{\ignorespaces Waveforms for Steady State\relax }}{72}{figure.caption.70}
+\contentsline {figure}{\numberline {4.1.4}{\ignorespaces Waveforms for Transient\relax }}{85}{figure.caption.72}
+\addvspace {10\p@ }

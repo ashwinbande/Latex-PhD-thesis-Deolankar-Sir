@@ -1,0 +1,24 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{ALF}]\begingroup Accuracy Limit Factor\nomeqref {0}
+		\nompageref{1}
+  \item [{BIL}]\begingroup Basic Insulation Level\nomeqref {0}
+		\nompageref{1}
+  \item [{Bur}]\begingroup Burdon\nomeqref {0}\nompageref{1}
+  \item [{C}]\begingroup Capacitance\nomeqref {0}\nompageref{1}
+  \item [{CT}]\begingroup Current Transformer\nomeqref {0}
+		\nompageref{1}
+  \item [{e\textsubscript{r}}]\begingroup Relative Permittivity\nomeqref {0}
+		\nompageref{1}
+  \item [{IFS}]\begingroup Instrument Security Factor\nomeqref {0}
+		\nompageref{1}
+  \item [{pC}]\begingroup Pico Coulomb\nomeqref {0}\nompageref{1}
+  \item [{PD}]\begingroup Partial Discharge\nomeqref {0}\nompageref{1}
+  \item [{SIWL}]\begingroup Switching Impulse Withstand Level\nomeqref {0}
+		\nompageref{1}
+  \item [{VLF}]\begingroup Very Low Frequency testing\nomeqref {0}
+		\nompageref{1}
+
+\end{thenomenclature}

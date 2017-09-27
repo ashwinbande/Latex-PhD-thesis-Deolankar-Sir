@@ -1,0 +1,3089 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.7)  27 SEP 2017 21:59
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count89
+\multirow@dima=\skip44
+\bigstrutjot=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks15
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+\c@definition=\count103
+\c@corollary=\count104
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen116
+\lightrulewidth=\dimen117
+\cmidrulewidth=\dimen118
+\belowrulesep=\dimen119
+\belowbottomsep=\dimen120
+\aboverulesep=\dimen121
+\abovetopsep=\dimen122
+\cmidrulesep=\dimen123
+\cmidrulekern=\dimen124
+\defaultaddspace=\dimen125
+\@cmidla=\count105
+\@cmidlb=\count106
+\@aboverulesep=\dimen126
+\@belowrulesep=\dimen127
+\@thisruleclass=\count107
+\@lastruleclass=\count108
+\@thisrulewidth=\dimen128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\threeparttable\threeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box28
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks26
+\float@box=\box29
+\@float@everytoks=\toks27
+\@floatcapt=\box30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen129
+\extrarowheight=\dimen130
+\NC@list=\toks28
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen131
+\Hy@linkcounter=\count110
+\Hy@pagecounter=\count111
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count112
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count113
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen132
+\Fld@menulength=\count114
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count115
+\c@Item=\count116
+\c@Hfootnote=\count117
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count118
+\c@bookmark@seq@number=\count119
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks29
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen143
+\nom@tempdim=\dimen144
+\nomitemsep=\skip54
+)
+\@nomenclaturefile=\write3
+\openout3 = `main.nlo'.
+
+
+Writing nomenclature file main.nlo
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen145
+\enit@toks=\toks30
+\enit@inbox=\box31
+\enitdp@description=\count123
+)
+\c@descriptcount=\count124
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\chngcntr\chngcntr.sty"
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count125
+\rotFPtop=\skip56
+\rotFPbot=\skip57
+\rot@float@box=\box32
+\rot@mess@toks=\toks31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip58
+\f@ncyO@elh=\skip59
+\f@ncyO@erh=\skip60
+\f@ncyO@olh=\skip61
+\f@ncyO@orh=\skip62
+\f@ncyO@elf=\skip63
+\f@ncyO@erf=\skip64
+\f@ncyO@olf=\skip65
+\f@ncyO@orf=\skip66
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen146
+\captionmargin@=\dimen147
+\captionwidth=\dimen148
+\caption@tempdima=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+)
+\c@ContinuedFloat=\count126
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count127
+\c@subtable=\count128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip67
+\RaggedLeftLeftskip=\skip68
+\RaggedRightLeftskip=\skip69
+\CenteringRightskip=\skip70
+\RaggedLeftRightskip=\skip71
+\RaggedRightRightskip=\skip72
+\CenteringParfillskip=\skip73
+\RaggedLeftParfillskip=\skip74
+\RaggedRightParfillskip=\skip75
+\JustifyingParfillskip=\skip76
+\CenteringParindent=\skip77
+\RaggedLeftParindent=\skip78
+\RaggedRightParindent=\skip79
+\JustifyingParindent=\skip80
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\filecontents\filecontents.sty"
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2017/07/15 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2017/07/15 L3 programming layer (code)
+\c_max_int=\count129
+\l_tmpa_int=\count130
+\l_tmpb_int=\count131
+\g_tmpa_int=\count132
+\g_tmpb_int=\count133
+\g__intarray_font_int=\count134
+\g__prg_map_int=\count135
+\c_log_iow=\count136
+\l_iow_line_count_int=\count137
+\l__iow_line_target_int=\count138
+\l__iow_one_indent_int=\count139
+\l__iow_indent_int=\count140
+\c_zero_dim=\dimen153
+\c_max_dim=\dimen154
+\l_tmpa_dim=\dimen155
+\l_tmpb_dim=\dimen156
+\g_tmpa_dim=\dimen157
+\g_tmpb_dim=\dimen158
+\c_zero_skip=\skip81
+\c_max_skip=\skip82
+\l_tmpa_skip=\skip83
+\l_tmpb_skip=\skip84
+\g_tmpa_skip=\skip85
+\g_tmpb_skip=\skip86
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count141
+\c__fp_leading_shift_int=\count142
+\c__fp_middle_shift_int=\count143
+\c__fp_trailing_shift_int=\count144
+\c__fp_big_leading_shift_int=\count145
+\c__fp_big_middle_shift_int=\count146
+\c__fp_big_trailing_shift_int=\count147
+\c__fp_Bigg_leading_shift_int=\count148
+\c__fp_Bigg_middle_shift_int=\count149
+\c__fp_Bigg_trailing_shift_int=\count150
+\c__fp_rand_size_int=\count151
+\c__fp_rand_four_int=\count152
+\c__fp_rand_eight_int=\count153
+\l__sort_length_int=\count154
+\l__sort_min_int=\count155
+\l__sort_top_int=\count156
+\l__sort_max_int=\count157
+\l__sort_true_max_int=\count158
+\l__sort_block_int=\count159
+\l__sort_begin_int=\count160
+\l__sort_end_int=\count161
+\l__sort_A_int=\count162
+\l__sort_B_int=\count163
+\l__sort_C_int=\count164
+\l__tl_build_start_index_int=\count165
+\l__tl_build_index_int=\count166
+\l__tl_analysis_normal_int=\count167
+\l__tl_analysis_index_int=\count168
+\l__tl_analysis_nesting_int=\count169
+\l__tl_analysis_type_int=\count170
+\l__regex_internal_a_int=\count171
+\l__regex_internal_b_int=\count172
+\l__regex_internal_c_int=\count173
+\l__regex_balance_int=\count174
+\l__regex_group_level_int=\count175
+\l__regex_mode_int=\count176
+\c__regex_cs_in_class_mode_int=\count177
+\c__regex_cs_mode_int=\count178
+\l__regex_catcodes_int=\count179
+\l__regex_default_catcodes_int=\count180
+\c__regex_catcode_D_int=\count181
+\c__regex_catcode_S_int=\count182
+\c__regex_catcode_L_int=\count183
+\c__regex_catcode_O_int=\count184
+\c__regex_catcode_A_int=\count185
+\c__regex_all_catcodes_int=\count186
+\l__regex_show_lines_int=\count187
+\l__regex_min_state_int=\count188
+\l__regex_max_state_int=\count189
+\l__regex_left_state_int=\count190
+\l__regex_right_state_int=\count191
+\l__regex_capturing_group_int=\count192
+\l__regex_min_pos_int=\count193
+\l__regex_max_pos_int=\count194
+\l__regex_curr_pos_int=\count195
+\l__regex_start_pos_int=\count196
+\l__regex_success_pos_int=\count197
+\l__regex_curr_char_int=\count198
+\l__regex_curr_catcode_int=\count199
+\l__regex_last_char_int=\count266
+\l__regex_case_changed_char_int=\count267
+\l__regex_curr_state_int=\count268
+\l__regex_step_int=\count269
+\l__regex_min_active_int=\count270
+\l__regex_max_active_int=\count271
+\l__regex_replacement_csnames_int=\count272
+\l__regex_match_count_int=\count273
+\l__regex_min_submatch_int=\count274
+\l__regex_submatch_int=\count275
+\l__regex_zeroth_submatch_int=\count276
+\c_empty_box=\box33
+\l_tmpa_box=\box34
+\l_tmpb_box=\box35
+\g_tmpa_box=\box36
+\g_tmpb_box=\box37
+\l__box_top_dim=\dimen159
+\l__box_bottom_dim=\dimen160
+\l__box_left_dim=\dimen161
+\l__box_right_dim=\dimen162
+\l__box_top_new_dim=\dimen163
+\l__box_bottom_new_dim=\dimen164
+\l__box_left_new_dim=\dimen165
+\l__box_right_new_dim=\dimen166
+\l__box_internal_box=\box38
+\l__coffin_internal_box=\box39
+\l__coffin_internal_dim=\dimen167
+\l__coffin_offset_x_dim=\dimen168
+\l__coffin_offset_y_dim=\dimen169
+\l__coffin_x_dim=\dimen170
+\l__coffin_y_dim=\dimen171
+\l__coffin_x_prime_dim=\dimen172
+\l__coffin_y_prime_dim=\dimen173
+\c_empty_coffin=\box40
+\l__coffin_aligned_coffin=\box41
+\l__coffin_aligned_internal_coffin=\box42
+\l_tmpa_coffin=\box43
+\l_tmpb_coffin=\box44
+\l__coffin_display_coffin=\box45
+\l__coffin_display_coord_coffin=\box46
+\l__coffin_display_pole_coffin=\box47
+\l__coffin_display_offset_dim=\dimen174
+\l__coffin_display_x_dim=\dimen175
+\l__coffin_display_y_dim=\dimen176
+\l__coffin_bounding_shift_dim=\dimen177
+\l__coffin_left_corner_dim=\dimen178
+\l__coffin_right_corner_dim=\dimen179
+\l__coffin_bottom_corner_dim=\dimen180
+\l__coffin_top_corner_dim=\dimen181
+\l__coffin_scaled_total_height_dim=\dimen182
+\l__coffin_scaled_width_dim=\dimen183
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count277
+\l__driver_tmp_box=\box48
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2017/07/15 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count278
+\g__xparse_grabber_int=\count279
+\l__xparse_m_args_int=\count280
+\l__xparse_mandatory_args_int=\count281
+\l__xparse_v_nesting_int=\count282
+)
+Package: siunitx 2017/08/02 v2.7j A comprehensive (SI) units package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2017/07/15 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box49
+\l__siunitx_tmp_dim=\dimen184
+\l__siunitx_tmp_int=\count283
+\l__siunitx_number_mantissa_length_int=\count284
+\l__siunitx_number_uncert_length_int=\count285
+\l__siunitx_round_int=\count286
+\l__siunitx_process_decimal_int=\count287
+\l__siunitx_process_uncertainty_int=\count288
+\l__siunitx_process_fixed_int=\count289
+\l__siunitx_process_integer_min_int=\count290
+\l__siunitx_process_precision_int=\count291
+\l__siunitx_group_min_int=\count292
+\l__siunitx_angle_marker_box=\box50
+\l__siunitx_angle_unit_box=\box51
+\l__siunitx_angle_marker_dim=\dimen185
+\l__siunitx_angle_unit_dim=\dimen186
+\l__siunitx_unit_int=\count293
+\l__siunitx_unit_denominator_int=\count294
+\l__siunitx_unit_numerator_int=\count295
+\l__siunitx_unit_prefix_int=\count296
+\l__siunitx_unit_prefix_base_int=\count297
+\l__siunitx_unit_prefix_gram_int=\count298
+\l__siunitx_number_product_int=\count299
+\c__siunitx_one_fill_skip=\skip87
+\l__siunitx_table_unit_align_skip=\skip88
+\l__siunitx_table_exponent_dim=\dimen187
+\l__siunitx_table_integer_dim=\dimen188
+\l__siunitx_table_mantissa_dim=\dimen189
+\l__siunitx_table_marker_dim=\dimen190
+\l__siunitx_table_result_dim=\dimen191
+\l__siunitx_table_uncert_dim=\dimen192
+\l__siunitx_table_fill_pre_dim=\dimen193
+\l__siunitx_table_fill_post_dim=\dimen194
+\l__siunitx_table_fill_mid_dim=\dimen195
+\l__siunitx_table_pre_box=\box52
+\l__siunitx_table_post_box=\box53
+\l__siunitx_table_mantissa_box=\box54
+\l__siunitx_table_result_box=\box55
+\l__siunitx_table_number_align_skip=\skip89
+\l__siunitx_table_text_align_skip=\skip90
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7247.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7250.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7253.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7265.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7280.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7289.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7298.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7307.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7319.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7331.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7343.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7346.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7361.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7373.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7420.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7422.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7424.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7426.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7428.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7429.
+.................................................
+\g__file_internal_ior=\read1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator.sty"
+Package: translator 2010/06/12 ver 1.10
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator-language-m
+appings.tex"))) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 143.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 143.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count300
+\scratchdimen=\dimen196
+\scratchbox=\box56
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen197
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks33
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box57
+Package hyperref Info: Link coloring OFF on input line 143.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count306
+)
+LaTeX Info: Redefining \ref on input line 143.
+LaTeX Info: Redefining \pageref on input line 143.
+LaTeX Info: Redefining \nameref on input line 143.
+
+(main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=700.50687pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 143.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
+c-dictionary\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
+File: siunitx-abbreviations.cfg 2017/08/02 v2.7j siunitx: Abbreviated units
+)
+\c__siunitx_mathsf_int=\count307
+LaTeX Font Info:    Try loading font information for U+msa on input line 143.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 143.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c__siunitx_mathtt_int=\count308
+ (chapters/Front.tex
+<images/universityLOGO.png, id=241, 149.55875pt x 160.6pt>
+File: images/universityLOGO.png Graphic file (type png)
+
+<use images/universityLOGO.png>
+Package pdftex.def Info: images/universityLOGO.png used on input line 8.
+(pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/universityLOGO.p
+ng>]pdfTeX warning (ext4): destination with the same identifier (name{page.}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.54 \clearpage
+                [2
+
+]
+File: images/universityLOGO.png Graphic file (type png)
+ <use images/universityLOGO.png>
+Package pdftex.def Info: images/universityLOGO.png used on input line 60.
+(pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.78 \clearpage
+                [3
+
+]
+File: images/universityLOGO.png Graphic file (type png)
+ <use images/universityLOGO.png>
+Package pdftex.def Info: images/universityLOGO.png used on input line 86.
+(pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+
+Overfull \hbox (33.85196pt too wide) in paragraph at lines 97--108
+[]  $[]$ 
+ []
+
+[1
+
+] (chapters/Abstract.tex)
+Overfull \hbox (1.33221pt too wide) in paragraph at lines 7--114
+\OT1/cmr/m/n/12 The ra-tio er-ror and phase er-ror re-sults were com-pared for 
+steady state and tran-sient
+ []
+
+[2
+
+
+] [3]
+File: images/universityLOGO.png Graphic file (type png)
+ <use images/universityLOGO.png>
+Package pdftex.def Info: images/universityLOGO.png used on input line 121.
+(pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+
+Overfull \hbox (33.85196pt too wide) in paragraph at lines 133--142
+[]  $[]$ 
+ []
+
+[4
+
+]
+Overfull \hbox (7.74309pt too wide) in paragraph at lines 185--186
+[]\OT1/cmr/m/n/12 I am thank-ful to \OT1/cmr/bx/n/12 Dr. P. V. Mur-nal\OT1/cmr/
+m/n/12 , Prin-ci-pal, Gov-ern-ment Col-lege of En-gi-neer-ing,
+ []
+
+) [5
+
+] (main.toc [6
+
+]
+Overfull \hbox (13.73488pt too wide) in paragraph at lines 63--63
+ [][] [][]\OT1/cmr/m/n/12 Simulation model for oil filled high volt-age cur-ren
+t trans-form-ers 
+ []
+
+
+Overfull \hbox (27.30835pt too wide) in paragraph at lines 77--77
+ [][] [][]\OT1/cmr/m/n/12 Analysis of sim-u-la-tion model for high volt-age cur
+-rent trans-form-ers 
+ []
+
+[7]
+Overfull \hbox (27.30835pt too wide) in paragraph at lines 79--79
+ [][] [][]\OT1/cmr/m/n/12 Analysis of sim-u-la-tion model for high volt-age cur
+-rent trans-form-ers 
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [8] (main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [9
+
+
+] (main.lof
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\hbox' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@tempdima' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\hfil' on input line 2.
+
+[10
+
+])
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+ (main.nls [11]) [12
+
+] (chapters/nomenclature.tex)
+Chapter 1.
+(chapters/Introduction.tex
+
+LaTeX Warning: Citation `crichton1989partial' on page 1 undefined on input line
+ 6.
+
+
+Overfull \hbox (1.91971pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/12 re-quire-ments and cur-rent car-ry-ing ca-pac-ity of the sys-te
+m, best in-su-lat-ing ma-te-ri-als,
+ []
+
+
+LaTeX Warning: Citation `van1994physics' on page 1 undefined on input line 9.
+
+
+LaTeX Warning: Citation `danikas1998some' on page 1 undefined on input line 9.
+
+
+LaTeX Warning: Citation `paithankar1997can' on page 1 undefined on input line 9
+.
+
+[1
+
+]
+Overfull \hbox (9.1613pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/m/n/12 High volt-age elec-tri-cal equip-ment un-der-goes var-i-ous k
+ind of stresses dur-ing op-er-at-ing
+ []
+
+
+LaTeX Warning: Citation `kolev1998partial' on page 2 undefined on input line 13
+.
+
+
+Overfull \hbox (9.19603pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/n/12 Par-tial dis-charge gives the in-di-ca-tion of in-stru-ment fai
+l-ure and warn-ing of in-stru-ment
+ []
+
+
+Overfull \hbox (3.22525pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/12 The con-duc-tive live part of elec-tri-cal in-stru-ments is pro
+-tected by in-su-la-tion strength
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+
+LaTeX Warning: Citation `ren2006simulation' on page 3 undefined on input line 2
+0.
+
+
+LaTeX Warning: Citation `kolev1999approach' on page 3 undefined on input line 2
+2.
+
+
+LaTeX Warning: Citation `satish1994artificial' on page 3 undefined on input lin
+e 26.
+
+<images/InputACSineWave145kV.png, id=581, 1024.57782pt x 488.57532pt>
+File: images/InputACSineWave145kV.png Graphic file (type png)
+
+<use images/InputACSineWave145kV.png>
+Package pdftex.def Info: images/InputACSineWave145kV.png used on input line 30.
+
+(pdftex.def)             Requested size: 416.83289pt x 198.76653pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<images/OutputACSineWave145kVwithPartialDischargepulses.png, id=582, 1020.06094
+pt x 482.55281pt>
+File: images/OutputACSineWave145kVwithPartialDischargepulses.png Graphic file (
+type png)
+
+<use images/OutputACSineWave145kVwithPartialDischargepulses.png>
+Package pdftex.def Info: images/OutputACSineWave145kVwithPartialDischargepulses
+.png used on input line 37.
+(pdftex.def)             Requested size: 416.83289pt x 197.1926pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<images/TreeingProcessduetoPartialDischarge.png, id=583, 462.528pt x 346.896pt>
+File: images/TreeingProcessduetoPartialDischarge.png Graphic file (type png)
+<use images/TreeingProcessduetoPartialDischarge.png>
+Package pdftex.def Info: images/TreeingProcessduetoPartialDischarge.png used on
+ input line 44.
+(pdftex.def)             Requested size: 416.83289pt x 312.63754pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/PartialDischargeWaveformDue.png, id=584, 509.905pt x 717.68124pt>
+File: images/PartialDischargeWaveformDue.png Graphic file (type png)
+
+<use images/PartialDischargeWaveformDue.png>
+Package pdftex.def Info: images/PartialDischargeWaveformDue.png used on input l
+ine 51.
+(pdftex.def)             Requested size: 416.83289pt x 586.70648pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] [4 <./images/InputACSineWave145kV.png> <./images/OutputACSineWave145kVwithP
+artialDischargepulses.png>] [5 <./images/TreeingProcessduetoPartialDischarge.pn
+g>] [6 <./images/PartialDischargeWaveformDue.png>]
+Overfull \hbox (2.40721pt too wide) in paragraph at lines 63--64
+[]\OT1/cmr/m/n/12 For study and anal-y-sis of par-tial dis-charge in cur-rent t
+rans-form-ers, a Simulink
+ []
+
+
+LaTeX Warning: Citation `gutfleisch1995measurement' on page 7 undefined on inpu
+t line 73.
+
+
+LaTeX Warning: Citation `bartnikas2002partial' on page 7 undefined on input lin
+e 73.
+
+
+LaTeX Warning: Citation `karmakar2009partial' on page 7 undefined on input line
+ 73.
+
+[7
+
+]
+
+LaTeX Warning: Citation `karmakar2009monitoring' on page 8 undefined on input l
+ine 83.
+
+
+LaTeX Warning: Citation `kuffel2000high' on page 8 undefined on input line 87.
+
+
+LaTeX Warning: Citation `kreuger1989partial' on page 8 undefined on input line 
+87.
+
+
+LaTeX Warning: Citation `naiduhigh' on page 8 undefined on input line 87.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+LaTeX Warning: Citation `Proceedingsof2008International' on page 8 undefined on
+ input line 91.
+
+
+Overfull \hbox (9.09187pt too wide) in paragraph at lines 91--92
+[]\OT1/cmr/m/n/12 Partial Dis-charge in High volt-age Cur-rent Trans-form-ers i
+s re-sult-ing in the break-down
+ []
+
+[8] [9] [10]
+<images/HighVoltageTransmissionLineWithCurrentTransformers.png, id=640, 592.463
+44pt x 403.5075pt>
+File: images/HighVoltageTransmissionLineWithCurrentTransformers.png Graphic fil
+e (type png)
+
+<use images/HighVoltageTransmissionLineWithCurrentTransformers.png>
+Package pdftex.def Info: images/HighVoltageTransmissionLineWithCurrentTransform
+ers.png used on input line 145.
+(pdftex.def)             Requested size: 416.83289pt x 283.90022pt.
+ [11 <./images/HighVoltageTransmissionLineWithCurrentTransformers.png>] [12]
+Overfull \hbox (3.02525pt too wide) in paragraph at lines 162--163
+[]\OT1/cmr/m/n/12 In the fifth chap-ter con-clu-sion of the re-search work, fu-
+ture scope and the ap-pli-ca-tion
+ []
+
+) [13]
+Chapter 2.
+(chapters/LiteratureSurvey.tex
+Overfull \hbox (2.45952pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/12 In-ex-pen-sive con-tin-u-ous par-tial dis-charge mon-i-tor is a
+vail-able. The par-tial dis-charge
+ []
+
+
+Overfull \hbox (0.94055pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/12 cur-rent Trans-form-ers where in-service fail-ures may have lar
+ge fi-nan-cial con-se-quence 
+ []
+
+
+LaTeX Warning: Citation `kim2003acoustic' on page 14 undefined on input line 10
+.
+
+
+LaTeX Warning: Citation `chen2008partial' on page 14 undefined on input line 12
+.
+
+
+LaTeX Warning: Citation `forssen2008partial' on page 14 undefined on input line
+ 12.
+
+
+LaTeX Warning: Citation `standard200060270' on page 14 undefined on input line 
+12.
+
+[14
+
+]
+
+LaTeX Warning: Citation `kuffel2000high2' on page 15 undefined on input line 16
+.
+
+
+LaTeX Warning: Citation `gockenbach2004partial' on page 15 undefined on input l
+ine 20.
+
+
+Overfull \hbox (7.92104pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/12 When the field in-ten-sity level goes above a par-tic-u-lar l
+evel in high volt-age equip-ment,
+ []
+
+
+Overfull \hbox (8.12103pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 gen-er-a-tion of nonuni-form field causes weak-en-ing of solid,
+ liq-uid or gaseous in-su-la-tion.
+ []
+
+
+Overfull \hbox (3.76923pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 dis-charge phe-nomenon. The par-tial dis-charge anal-y-sis de-p
+ends upon the mag-ni-tude
+ []
+
+[15]
+
+LaTeX Warning: Citation `bengtsson1996status' on page 16 undefined on input lin
+e 26.
+
+
+Overfull \hbox (7.36827pt too wide) in paragraph at lines 26--27
+[]\OT1/cmr/m/n/12 Partial dis-charge mon-i-tor-ing can be done On-line to avoid
+ fail-ure of power equip-ment.
+ []
+
+
+LaTeX Warning: Citation `naiduhigh2' on page 16 undefined on input line 28.
+
+
+LaTeX Warning: Citation `kim2003acoustic' on page 16 undefined on input line 32
+.
+
+
+LaTeX Warning: Citation `nattrass1993partial' on page 16 undefined on input lin
+e 32.
+
+
+LaTeX Warning: Citation `macalpine2002development' on page 16 undefined on inpu
+t line 32.
+
+
+LaTeX Warning: Citation `kemp1995partial' on page 16 undefined on input line 32
+.
+
+[16]
+
+LaTeX Warning: Citation `karmakar2009detection' on page 17 undefined on input l
+ine 38.
+
+[17]
+
+LaTeX Warning: Citation `xiao2006time' on page 18 undefined on input line 44.
+
+
+LaTeX Warning: Citation `standard2000high' on page 18 undefined on input line 4
+4.
+
+
+LaTeX Warning: Citation `wadhwa2007high' on page 18 undefined on input line 44.
+
+
+
+LaTeX Warning: Citation `danikas1993definitions' on page 18 undefined on input 
+line 44.
+
+
+Overfull \hbox (4.46552pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 dis-charge that only par-tially bridges the in-su-la-tion be-tw
+een con-duc-tors."The par-tial
+ []
+
+
+LaTeX Warning: Citation `guastavino2011morphologic' on page 18 undefined on inp
+ut line 48.
+
+
+LaTeX Warning: Citation `stone2005partial' on page 18 undefined on input line 4
+8.
+
+
+LaTeX Warning: Citation `schwarz2008review' on page 18 undefined on input line 
+48.
+
+
+LaTeX Warning: Citation `muhr2006partial' on page 18 undefined on input line 48
+.
+
+
+LaTeX Warning: Citation `reddy2014detection' on page 18 undefined on input line
+ 48.
+
+
+LaTeX Warning: Citation `coenen2008sensitivity' on page 18 undefined on input l
+ine 48.
+
+
+Overfull \hbox (4.64839pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/12 clas-si-fied in the group based on am-pli-tude and fre-quency. 
+Based on the clas-si-fi-ca-tion
+ []
+
+[18]
+
+LaTeX Warning: Citation `chen2007rf' on page 19 undefined on input line 57.
+
+
+LaTeX Warning: Citation `chen2008time' on page 19 undefined on input line 57.
+
+
+Overfull \hbox (1.78915pt too wide) in paragraph at lines 57--58
+[]\OT1/cmr/m/n/12 The faulty con-di-tions of cur-rent trans-form-ers can be cha
+r-ac-ter-ized re-gard-ing par-tial
+ []
+
+[19]
+
+LaTeX Warning: Citation `wang2006acousto' on page 20 undefined on input line 61
+.
+
+
+LaTeX Warning: Citation `schwarz2007modern' on page 20 undefined on input line 
+61.
+
+
+LaTeX Warning: Citation `kuchinsky1979partial' on page 20 undefined on input li
+ne 61.
+
+
+LaTeX Warning: Citation `iec200060270' on page 20 undefined on input line 71.
+
+
+LaTeX Warning: Citation `haraldsen1968investigations' on page 20 undefined on i
+nput line 71.
+
+
+LaTeX Warning: Citation `berent1995acoustic' on page 20 undefined on input line
+ 71.
+
+[20]
+
+LaTeX Warning: Citation `shertukde1998detection' on page 21 undefined on input 
+line 84.
+
+
+LaTeX Warning: Citation `moore1997application' on page 21 undefined on input li
+ne 84.
+
+[21]
+
+LaTeX Warning: Citation `moore1997application2' on page 22 undefined on input l
+ine 92.
+
+[22
+
+]
+Overfull \hbox (12.9821pt too wide) in paragraph at lines 106--107
+[]\OT1/cmr/m/n/12 Partial dis-charge mea-sure-ment is a qual-i-ta-tive anal-y-s
+is tool which in-di-cates in-su-la-tion
+ []
+
+
+LaTeX Warning: Citation `sundermannline' on page 23 undefined on input line 108
+.
+
+[23
+
+]
+
+LaTeX Warning: Citation `sokolov1999effective' on page 24 undefined on input li
+ne 112.
+
+<images/PartialDischarge.png, id=704, 319.1925pt x 249.93375pt>
+File: images/PartialDischarge.png Graphic file (type png)
+
+<use images/PartialDischarge.png>
+Package pdftex.def Info: images/PartialDischarge.png used on input line 118.
+(pdftex.def)             Requested size: 416.83289pt x 326.38972pt.
+ [24 <./images/PartialDischarge.png>]
+Overfull \hbox (1.15268pt too wide) in paragraph at lines 134--135
+\OT1/cmr/m/n/12 light-ning strikes. Con-se-quently, AC switches and high volt-a
+ge in-dus-trial equip-ment
+ []
+
+
+Overfull \hbox (2.45407pt too wide) in paragraph at lines 134--135
+\OT1/cmr/m/n/12 are ex-posed to volt-age surges nor-mally ab-sorbed by the grid
+. BIL rated com-po-nents
+ []
+
+[25]
+Overfull \hbox (4.61783pt too wide) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 po-ten-tial for pre-ma-ture in-su-la-tion break-down. The test 
+is ca-pa-ble of de-tect-ing
+ []
+
+
+LaTeX Warning: Citation `sokolov1999effective' on page 26 undefined on input li
+ne 144.
+
+
+Overfull \hbox (0.4489pt too wide) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 Cur-rent Trans-form-ers re-quired to study ef-fects of Par-tial
+ dis-charge on per-for-mance.
+ []
+
+[26] [27]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 177.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 177.
+
+Overfull \hbox (0.21419pt too wide) in paragraph at lines 177--178
+[]\OT1/cmr/m/n/12 Acoustic Piezo-accelerometer placed on trans-former tank Easy
+ to in-stall Ca-pa-bil-ity
+ []
+
+[28]
+Overfull \hbox (1.39749pt too wide) in paragraph at lines 193--194
+\OT1/cmr/m/n/12 has no over-stressed ef-fect on in-su-la-tion and gives the in-
+for-ma-tion of in-su-la-tion
+ []
+
+[29]
+Overfull \hbox (3.5822pt too wide) in paragraph at lines 219--220
+[]\OT1/cmr/m/n/12 Partial dis-charge test-ing is a pre-ven-tive de-tec-tion too
+l which can alarm the po-ten-tial
+ []
+
+[30]
+Overfull \hbox (0.77896pt too wide) in paragraph at lines 223--223
+[]\OT1/cmr/bx/n/17.28 Study of Var-i-ous In-stru-ments Which De-tects
+ []
+
+
+Overfull \hbox (5.83295pt too wide) in paragraph at lines 223--223
+\OT1/cmr/bx/n/17.28 Par-tial Dis-charge in High Volt-age In-stru-ment 
+ []
+
+<images/251.png, id=747, 150.5625pt x 205.5178pt>
+File: images/251.png Graphic file (type png)
+ <use images/251.png>
+Package pdftex.def Info: images/251.png used on input line 245.
+(pdftex.def)             Requested size: 150.56212pt x 205.5173pt.
+
+Overfull \hbox (17.17255pt too wide) in paragraph at lines 245--246
+ [][] 
+ []
+
+<images/252.png, id=748, 140.02313pt x 121.95563pt>
+File: images/252.png Graphic file (type png)
+ <use images/252.png>
+Package pdftex.def Info: images/252.png used on input line 250.
+(pdftex.def)             Requested size: 140.02278pt x 121.9553pt.
+
+Overfull \hbox (6.63321pt too wide) in paragraph at lines 250--251
+ [][] 
+ []
+
+<images/253.png, id=749, 148.30406pt x 100.12407pt>
+File: images/253.png Graphic file (type png)
+ <use images/253.png>
+Package pdftex.def Info: images/253.png used on input line 255.
+(pdftex.def)             Requested size: 168.58635pt x 113.81102pt.
+
+Overfull \hbox (35.19678pt too wide) in paragraph at lines 255--256
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `gurin1975measurements' on page 31 undefined on input l
+ine 262.
+
+
+Overfull \hbox (5.7581pt too wide) in paragraph at lines 264--265
+[]\OT1/cmr/m/n/12 This in-stru-ment is an an-a-lyzer with the prin-ci-ple of th
+e re-flec-tome-ter. Re-flec-tome-ter
+ []
+
+[31] <images/254.png, id=754, 91.09032pt x 69.25874pt>
+File: images/254.png Graphic file (type png)
+ <use images/254.png>
+Package pdftex.def Info: images/254.png used on input line 275.
+(pdftex.def)             Requested size: 130.97672pt x 99.58464pt.
+
+Overfull \hbox (5.92558pt too wide) in paragraph at lines 275--276
+ [][] 
+ []
+
+<images/255.png, id=755, 188.20313pt x 65.49469pt>
+File: images/255.png Graphic file (type png)
+ <use images/255.png>
+Package pdftex.def Info: images/255.png used on input line 279.
+(pdftex.def)             Requested size: 245.29005pt x 85.35826pt.
+
+[32 <./images/251.png> <./images/252.png> <./images/253.png>]
+Overfull \hbox (4.92245pt too wide) in paragraph at lines 286--287
+[]\OT1/cmr/m/n/12 This in-stru-ment mea-sures in high pre-ci-sion for high volt
+-age equip-ment for in-su-la-tion
+ []
+
+
+Overfull \hbox (1.65443pt too wide) in paragraph at lines 286--287
+\OT1/cmr/m/n/12 strength.Using gal-vanic iso-la-tion, it can min-i-mize noise a
+nd most safe for mea-sur-ing
+ []
+
+
+Overfull \hbox (0.83176pt too wide) in paragraph at lines 294--295
+\OT1/cmr/m/n/12 phe-nomenon in-side the cur-rent trans-former and bush-ing. The
+ in-su-la-tion con-di-tions
+ []
+
+[33 <./images/254.png> <./images/255.png>]
+<images/256.png, id=769, 191.9672pt x 134.00063pt>
+File: images/256.png Graphic file (type png)
+ <use images/256.png>
+Package pdftex.def Info: images/256.png used on input line 307.
+(pdftex.def)             Requested size: 191.96672pt x 134.00027pt.
+
+<images/257.png, id=770, 188.20313pt x 188.20313pt>
+File: images/257.png Graphic file (type png)
+ <use images/257.png>
+Package pdftex.def Info: images/257.png used on input line 311.
+(pdftex.def)             Requested size: 113.81297pt x 113.81102pt.
+
+<images/258.png, id=771, 191.9672pt x 127.22531pt>
+File: images/258.png Graphic file (type png)
+ <use images/258.png>
+Package pdftex.def Info: images/258.png used on input line 318.
+(pdftex.def)             Requested size: 191.96672pt x 127.22499pt.
+
+<images/259.png, id=772, 189.70876pt x 115.93312pt>
+File: images/259.png Graphic file (type png)
+ <use images/259.png>
+Package pdftex.def Info: images/259.png used on input line 322.
+(pdftex.def)             Requested size: 186.2404pt x 113.81102pt.
+
+[34 <./images/256.png> <./images/257.png> <./images/258.png> <./images/259.png>
+]
+
+LaTeX Warning: Citation `gurin1993field' on page 35 undefined on input line 334
+.
+
+<images/2510.png, id=783, 135.50626pt x 188.20313pt>
+File: images/2510.png Graphic file (type png)
+ <use images/2510.png>
+Package pdftex.def Info: images/2510.png used on input line 343.
+(pdftex.def)             Requested size: 135.5059pt x 188.20265pt.
+
+<images/2511.png, id=784, 134.00063pt x 180.675pt>
+File: images/2511.png Graphic file (type png)
+ <use images/2511.png>
+Package pdftex.def Info: images/2511.png used on input line 347.
+(pdftex.def)             Requested size: 134.00027pt x 180.67455pt.
+Missing character: There is no √ in font cmr12!
+Missing character: There is no å in font cmr12!
+
+<images/2512.png, id=785, 197.23688pt x 83.5622pt>
+File: images/2512.png Graphic file (type png)
+ <use images/2512.png>
+Package pdftex.def Info: images/2512.png used on input line 361.
+(pdftex.def)             Requested size: 197.23637pt x 83.56198pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Overfull \hbox (0.67944pt too wide) in paragraph at lines 369--370
+\OT1/cmr/m/n/12 trans-former they sep-a-rate in a cur-rent, which runs in the c
+on-duc-tor, high-frequency
+ []
+
+[35 <./images/2510.png> <./images/2511.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Overfull \hbox (0.15723pt too wide) in paragraph at lines 375--376
+[]\OT1/cmr/m/n/12 The spe-cial pro-tec-tive in-su-la-tion, which is meant for p
+ro-tec-tion of de-vice mea-sur-ing
+ []
+
+<images/2513.png, id=795, 181.42781pt x 136.25906pt>
+File: images/2513.png Graphic file (type png)
+ <use images/2513.png>
+Package pdftex.def Info: images/2513.png used on input line 381.
+(pdftex.def)             Requested size: 204.25528pt x 153.40332pt.
+
+<images/2514.png, id=796, 177.66376pt x 161.85469pt>
+File: images/2514.png Graphic file (type png)
+ <use images/2514.png>
+Package pdftex.def Info: images/2514.png used on input line 386.
+(pdftex.def)             Requested size: 187.40096pt x 170.72543pt.
+
+<images/2515.png, id=797, 192.72pt x 181.42781pt>
+File: images/2515.png Graphic file (type png)
+ <use images/2515.png>
+Package pdftex.def Info: images/2515.png used on input line 392.
+(pdftex.def)             Requested size: 181.345pt x 170.71933pt.
+
+<images/2516.png, id=798, 189.70876pt x 115.93312pt>
+File: images/2516.png Graphic file (type png)
+ <use images/2516.png>
+Package pdftex.def Info: images/2516.png used on input line 397.
+(pdftex.def)             Requested size: 204.25424pt x 124.82202pt.
+
+<images/2517.png, id=799, 188.20313pt x 141.52875pt>
+File: images/2517.png Graphic file (type png)
+ <use images/2517.png>
+Package pdftex.def Info: images/2517.png used on input line 403.
+(pdftex.def)             Requested size: 204.26431pt x 153.60677pt.
+
+<images/2518.png, id=800, 191.21437pt x 136.25906pt>
+File: images/2518.png Graphic file (type png)
+ <use images/2518.png>
+Package pdftex.def Info: images/2518.png used on input line 408.
+(pdftex.def)             Requested size: 204.26181pt x 145.55663pt.
+
+[36 <./images/2512.png>] [37 <./images/2513.png> <./images/2514.png> <./images/
+2515.png> <./images/2516.png> <./images/2517.png> <./images/2518.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [38]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+<images/2519.png, id=825, 193.47281pt x 139.27031pt>
+File: images/2519.png Graphic file (type png)
+ <use images/2519.png>
+Package pdftex.def Info: images/2519.png used on input line 451.
+(pdftex.def)             Requested size: 193.47234pt x 139.26996pt.
+
+Overfull \hbox (5.9192pt too wide) in paragraph at lines 456--457
+\OT1/cmr/m/n/12 im-pulse. Usu-ally, it has a high am-pli-tude and leads to the 
+au-then-tic-ity of mon-i-tor-ing
+ []
+
+
+Overfull \hbox (8.70436pt too wide) in paragraph at lines 456--457
+\OT1/cmr/m/n/12 with-out us-ing of KS-60 corona sen-sors (or such-like ) is im-
+pos-si-ble in the trans-former. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+[39 <./images/2519.png>] <images/2520.png, id=831, 170.88844pt x 146.04562pt>
+File: images/2520.png Graphic file (type png)
+
+<use images/2520.png>
+Package pdftex.def Info: images/2520.png used on input line 463.
+(pdftex.def)             Requested size: 170.88802pt x 146.04524pt.
+
+Overfull \hbox (2.70303pt too wide) in paragraph at lines 468--469
+[]\OT1/cmr/m/n/12 This sen-sor is aimed at the ref-er-ence form-ing, which is n
+ec-es-sary to par-tial dis-charge
+ []
+
+[40 <./images/2520.png>] <images/2521.png, id=838, 121.95563pt x 106.14656pt>
+File: images/2521.png Graphic file (type png)
+
+<use images/2521.png>
+Package pdftex.def Info: images/2521.png used on input line 473.
+(pdftex.def)             Requested size: 182.93295pt x 159.21945pt.
+ <images/2522.png, id=839, 190.46156pt x 88.07906pt>
+File: images/2522.png Graphic file (type png)
+
+<use images/2522.png>
+Package pdftex.def Info: images/2522.png used on input line 483.
+(pdftex.def)             Requested size: 285.6916pt x 132.11824pt.
+
+Overfull \hbox (2.59424pt too wide) in paragraph at lines 488--489
+\OT1/cmr/m/n/12 at-ten-u-a-tion in the de-vice be-fore mea-sur-ing. The in-ject
+ed charge cir-cuit is con-nected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+
+ []
+
+[41 <./images/2521.png> <./images/2522.png>]
+Overfull \hbox (3.93913pt too wide) in paragraph at lines 495--496
+[]\OT1/cmr/m/n/12 Airborne   ul-tra-sound  in-stru-ments,   of-ten  re-ferred  
+to  as  \ ul-tra-sonic  trans-la-tors," 
+ []
+
+
+Overfull \hbox (3.02942pt too wide) in paragraph at lines 495--496
+\OT1/cmr/m/n/12 provide in-for-ma-tion two ways: qual-i-ta-tively, due to the a
+bil-ity to \hear' ul-tra-sounds
+ []
+
+
+LaTeX Warning: Citation `sokolov1995experience' on page 42 undefined on input l
+ine 497.
+
+[42]
+Overfull \hbox (0.35306pt too wide) in paragraph at lines 504--505
+\OT1/cmr/m/n/12 fre-quency of se-ri-ous faults, which can be iden-ti-fied us-in
+g tech-niques such as in-frared
+ []
+
+[43]
+Overfull \hbox (13.87292pt too wide) in paragraph at lines 512--513
+[]\OT1/cmr/m/n/12 Often re-ferred to as \baby arc-ing,"follows the path of dam-
+aged in-su-la-tion. 
+ []
+
+[44] [45]
+Overfull \hbox (13.60014pt too wide) in paragraph at lines 529--530
+\OT1/cmr/m/n/12 Various lit-er-a-ture is avail-able on par-tial dis-charge phe-
+nomenon, causes, mea-sure-ment,
+ []
+
+)
+Overfull \hbox (10.2099pt too wide) in paragraph at lines 535--175
+\OT1/cmr/m/n/12 model and ef-fect of steady state con-di-tions and short cir-cu
+it and tran-sients con-di-tions
+ []
+
+[46]
+Chapter 3.
+(chapters/SystemDevelopment.tex
+Overfull \hbox (1.07622pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/12 con-di-tions. Two dif-fer-ent mod-els in MAT-LAB/Simulink were 
+con-sid-ered for steady
+ []
+
+[47
+
+]
+<images/SimulationModelforHighVoltageCurrentTransformers.pdf, id=879, 697.60625
+pt x 385.44pt>
+File: images/SimulationModelforHighVoltageCurrentTransformers.pdf Graphic file 
+(type pdf)
+
+<use images/SimulationModelforHighVoltageCurrentTransformers.pdf>
+Package pdftex.def Info: images/SimulationModelforHighVoltageCurrentTransformer
+s.pdf used on input line 23.
+(pdftex.def)             Requested size: 416.83289pt x 230.30713pt.
+ [48 <./images/SimulationModelforHighVoltageCurrentTransformers.pdf>]
+Overfull \hbox (3.3433pt too wide) in paragraph at lines 36--37
+[]\OT1/cmr/m/n/12 Simulation Model for High Volt-age Cur-rent Trans-form-ers in
+ Steady State Con-di-tion
+ []
+
+
+<images/SimulationModelofPDMeasurementinTransientCondition.pdf, id=892, 716.677
+5pt x 419.5675pt>
+File: images/SimulationModelofPDMeasurementinTransientCondition.pdf Graphic fil
+e (type pdf)
+
+<use images/SimulationModelofPDMeasurementinTransientCondition.pdf>
+Package pdftex.def Info: images/SimulationModelofPDMeasurementinTransientCondit
+ion.pdf used on input line 42.
+(pdftex.def)             Requested size: 416.83289pt x 244.03433pt.
+ [49 <./images/SimulationModelofPDMeasurementinTransientCondition.pdf>]
+<images/MathematicalModelofHighVoltageCurrentTransformer.pdf, id=904, 663.47874
+pt x 297.11pt>
+File: images/MathematicalModelofHighVoltageCurrentTransformer.pdf Graphic file 
+(type pdf)
+
+<use images/MathematicalModelofHighVoltageCurrentTransformer.pdf>
+Package pdftex.def Info: images/MathematicalModelofHighVoltageCurrentTransforme
+r.pdf used on input line 56.
+(pdftex.def)             Requested size: 416.83289pt x 186.65892pt.
+ [50 <./images/MathematicalModelofHighVoltageCurrentTransformer.pdf>]
+
+LaTeX Warning: Citation `harrold1985influence' on page 51 undefined on input li
+ne 82.
+
+
+Overfull \hbox (1.4586pt too wide) in paragraph at lines 84--85
+[]\OT1/cmr/m/n/12 With this math-e-mat-i-cal rep-re-sen-ta-tion, any cur-rent t
+rans-former can be rep-re-sented
+ []
+
+
+Overfull \hbox (2.26785pt too wide) in paragraph at lines 84--85
+\OT1/cmr/m/n/12 sec-ondary cir-cuit. This will help math-e-mat-i-cally to de-ri
+ve the ef-fec-tive per-for-mance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+[51]
+<images/DielectricMaterialWithaCavity.png, id=918, 317.68687pt x 249.18094pt>
+File: images/DielectricMaterialWithaCavity.png Graphic file (type png)
+
+<use images/DielectricMaterialWithaCavity.png>
+Package pdftex.def Info: images/DielectricMaterialWithaCavity.png used on input
+ line 94.
+(pdftex.def)             Requested size: 416.83289pt x 326.97691pt.
+ [52 <./images/DielectricMaterialWithaCavity.png>]
+<images/EquivalentCircuitofaCavityEnclosedinaSolidInsulatingMaterial.png, id=92
+7, 359.84438pt x 331.99031pt>
+File: images/EquivalentCircuitofaCavityEnclosedinaSolidInsulatingMaterial.png G
+raphic file (type png)
+
+<use images/EquivalentCircuitofaCavityEnclosedinaSolidInsulatingMaterial.png>
+Package pdftex.def Info: images/EquivalentCircuitofaCavityEnclosedinaSolidInsul
+atingMaterial.png used on input line 113.
+(pdftex.def)             Requested size: 416.83289pt x 384.59737pt.
+
+[53 <./images/EquivalentCircuitofaCavityEnclosedinaSolidInsulatingMaterial.png>
+]
+<images/RepresentationofVoidinOilFilledCurrentTransformer.png, id=934, 307.1475
+pt x 247.67531pt>
+File: images/RepresentationofVoidinOilFilledCurrentTransformer.png Graphic file
+ (type png)
+
+<use images/RepresentationofVoidinOilFilledCurrentTransformer.png>
+Package pdftex.def Info: images/RepresentationofVoidinOilFilledCurrentTransform
+er.png used on input line 128.
+(pdftex.def)             Requested size: 416.83289pt x 336.14613pt.
+
+Overfull \hbox (3.02525pt too wide) in paragraph at lines 133--134
+\OT1/cmr/m/n/12 Voids are con-sid-ered in this in-su-la-tion as per above con-s
+id-er-a-tions three ca-pac-i-tance
+ []
+
+
+LaTeX Warning: Citation `harrold1985influence' on page 54 undefined on input li
+ne 142.
+
+[54 <./images/RepresentationofVoidinOilFilledCurrentTransformer.png>]
+<images/ElectricalCircuitforPrincipleofPDMeasurement.png, id=941, 298.11375pt x
+ 211.54031pt>
+File: images/ElectricalCircuitforPrincipleofPDMeasurement.png Graphic file (typ
+e png)
+ <use images/ElectricalCircuitforPrincipleofPDMeasurement.png>
+Package pdftex.def Info: images/ElectricalCircuitforPrincipleofPDMeasurement.pn
+g used on input line 146.
+(pdftex.def)             Requested size: 416.83289pt x 295.79933pt.
+
+[55 <./images/ElectricalCircuitforPrincipleofPDMeasurement.png>]
+
+pdfTeX warning: pdflatex (file ./images/ConventionalPDmeasurement.pdf): PDF inc
+lusion: found PDF version <1.6>, but at most version <1.5> allowed
+<images/ConventionalPDmeasurement.pdf, id=947, 470.41246pt x 195.78645pt>
+File: images/ConventionalPDmeasurement.pdf Graphic file (type pdf)
+
+<use images/ConventionalPDmeasurement.pdf>
+Package pdftex.def Info: images/ConventionalPDmeasurement.pdf used on input lin
+e 171.
+(pdftex.def)             Requested size: 416.83289pt x 173.48758pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+
+Overfull \hbox (2.59424pt too wide) in paragraph at lines 176--177
+\OT1/cmr/m/n/12 dis-tur-bances in voids are cre-ated. This pro-cess is de-tecte
+d by the cou-pling ca-pac-i-tor
+ []
+
+[56 <./images/ConventionalPDmeasurement.pdf>]
+Overfull \hbox (15.03624pt too wide) in paragraph at lines 192--193
+[]\OT1/cmr/m/n/12 In the cir-cuit used for cal-cu-lat-ing par-tial dis-charges,
+ the Test in-stru-ment is con-sid-ered,
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
+
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 258--260
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 261--263
+
+ []
+
+[60] [61
+
+] [62
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(57.81621pt, 714.96065pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=714.96065pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-51.45378pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (1.56046pt too wide) in paragraph at lines 358--358
+ []|\OT1/cmr/m/n/12 Burden| 
+ []
+
+
+Overfull \hbox (10.03688pt too wide) in paragraph at lines 355--379
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 16.90863pt on input line 379.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64
+
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(36.135pt, 736.64186pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=736.64186pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+
+Overfull \hbox (43.7891pt too wide) in paragraph at lines 392--427
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+Overfull \hbox (49.39368pt too wide) in paragraph at lines 435--448
+ [][] 
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+Overfull \hbox (29.66307pt too wide) in paragraph at lines 455--467
+ [][] 
+ []
+
+
+Overfull \hbox (6.47409pt too wide) in paragraph at lines 469--470
+\OT1/cmr/m/n/12 These ca-pac-i-tance val-ues are used in Simulink model for wav
+e-form stud-ies. The ca-pac-i-tance
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[66
+
+
+])
+Chapter 4.
+(chapters/PerformanceAnalysis.tex [67
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68]
+Overfull \hbox (23.65889pt too wide) in paragraph at lines 66--76
+ [][] 
+ []
+
+
+Overfull \hbox (7.61513pt too wide) in paragraph at lines 82--83
+\OT1/cmr/m/n/12 strength of in-su-la-tion. The PD pulses shown in wave-form sho
+ws in-crease am-pli-tudes. 
+ []
+
+[69]
+<images/SineWaveofPartialDischarge.png, id=1055, 390.70969pt x 213.04594pt>
+File: images/SineWaveofPartialDischarge.png Graphic file (type png)
+
+<use images/SineWaveofPartialDischarge.png>
+Package pdftex.def Info: images/SineWaveofPartialDischarge.png used on input li
+ne 86.
+(pdftex.def)             Requested size: 416.83289pt x 227.30023pt.
+
+
+LaTeX Warning: Citation `Dielectricwithstands' on page 70 undefined on input li
+ne 93.
+
+
+<images/PartialDischargesinSinusoidalWaveform.png, id=1056, 360.59718pt x 188.9
+5593pt>
+File: images/PartialDischargesinSinusoidalWaveform.png Graphic file (type png)
+ <use images/PartialDischargesinSinusoidalWaveform.png>
+Package pdftex.def Info: images/PartialDischargesinSinusoidalWaveform.png used 
+on input line 99.
+(pdftex.def)             Requested size: 416.83289pt x 218.42496pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[70 <./images/SineWaveofPartialDischarge.png>] [71 <./images/PartialDischargesi
+nSinusoidalWaveform.png>]
+<images/WaveformsforSteadyState1.png, id=1069, 454.69875pt x 226.59656pt>
+File: images/WaveformsforSteadyState1.png Graphic file (type png)
+
+<use images/WaveformsforSteadyState1.png>
+Package pdftex.def Info: images/WaveformsforSteadyState1.png used on input line
+ 111.
+(pdftex.def)             Requested size: 416.83289pt x 207.72797pt.
+
+<images/WaveformsforSteadyState2.png, id=1070, 1026.08344pt x 510.40688pt>
+File: images/WaveformsforSteadyState2.png Graphic file (type png)
+
+<use images/WaveformsforSteadyState2.png>
+Package pdftex.def Info: images/WaveformsforSteadyState2.png used on input line
+ 113.
+(pdftex.def)             Requested size: 416.83289pt x 207.34448pt.
+
+<images/Wave3.png, id=1071, 1017.8025pt x 510.40688pt>
+File: images/Wave3.png Graphic file (type png)
+ <use images/Wave3.png>
+Package pdftex.def Info: images/Wave3.png used on input line 121.
+(pdftex.def)             Requested size: 416.83289pt x 209.03452pt.
+
+[72
+
+ <./images/WaveformsforSteadyState1.png> <./images/WaveformsforSteadyState2.png
+>] <images/Wave4.png, id=1080, 1023.07219pt x 508.90125pt>
+File: images/Wave4.png Graphic file (type png)
+
+<use images/Wave4.png>
+Package pdftex.def Info: images/Wave4.png used on input line 123.
+(pdftex.def)             Requested size: 416.83289pt x 207.33855pt.
+ <images/Wave5.png, id=1081, 1021.56656pt x 511.15968pt>
+File: images/Wave5.png Graphic file (type png)
+
+<use images/Wave5.png>
+Package pdftex.def Info: images/Wave5.png used on input line 125.
+(pdftex.def)             Requested size: 416.83289pt x 208.56287pt.
+ [73 <./images/Wave3.png> <./images/Wave4.png> <./images/Wave5.png>] <images/Wa
+ve6.png, id=1089, 1023.07219pt x 508.90125pt>
+File: images/Wave6.png Graphic file (type png)
+
+<use images/Wave6.png>
+Package pdftex.def Info: images/Wave6.png used on input line 132.
+(pdftex.def)             Requested size: 416.83289pt x 207.33855pt.
+ <images/Wave7.png, id=1090, 1024.57782pt x 510.40688pt>
+File: images/Wave7.png Graphic file (type png)
+
+<use images/Wave7.png>
+Package pdftex.def Info: images/Wave7.png used on input line 134.
+(pdftex.def)             Requested size: 416.83289pt x 207.64822pt.
+ <images/Wave8.png, id=1091, 1020.06094pt x 511.15968pt>
+File: images/Wave8.png Graphic file (type png)
+
+<use images/Wave8.png>
+Package pdftex.def Info: images/Wave8.png used on input line 136.
+(pdftex.def)             Requested size: 416.83289pt x 208.88264pt.
+ [74 <./images/Wave6.png> <./images/Wave7.png> <./images/Wave8.png>] <images/Wa
+ve9.png, id=1099, 1023.07219pt x 508.90125pt>
+File: images/Wave9.png Graphic file (type png)
+
+<use images/Wave9.png>
+Package pdftex.def Info: images/Wave9.png used on input line 141.
+(pdftex.def)             Requested size: 416.83289pt x 207.33855pt.
+
+<images/Wave91.png, id=1100, 1026.08344pt x 503.63156pt>
+File: images/Wave91.png Graphic file (type png)
+
+<use images/Wave91.png>
+Package pdftex.def Info: images/Wave91.png used on input line 143.
+(pdftex.def)             Requested size: 416.83289pt x 204.59213pt.
+
+<images/Wave92.png, id=1101, 1023.07219pt x 508.14844pt>
+File: images/Wave92.png Graphic file (type png)
+
+<use images/Wave92.png>
+Package pdftex.def Info: images/Wave92.png used on input line 145.
+(pdftex.def)             Requested size: 416.83289pt x 207.03183pt.
+ [75 <./images/Wave9.png> <./images/Wave91.png> <./images/Wave92.png>] <images/
+Wave93.png, id=1109, 1023.07219pt x 507.39563pt>
+File: images/Wave93.png Graphic file (type png)
+
+<use images/Wave93.png>
+Package pdftex.def Info: images/Wave93.png used on input line 150.
+(pdftex.def)             Requested size: 416.83289pt x 206.72511pt.
+
+<images/Wave94.png, id=1110, 1020.06094pt x 511.15968pt>
+File: images/Wave94.png Graphic file (type png)
+
+<use images/Wave94.png>
+Package pdftex.def Info: images/Wave94.png used on input line 152.
+(pdftex.def)             Requested size: 416.83289pt x 208.88264pt.
+
+<images/Wave95.png, id=1111, 1024.57782pt x 508.90125pt>
+File: images/Wave95.png Graphic file (type png)
+
+<use images/Wave95.png>
+Package pdftex.def Info: images/Wave95.png used on input line 154.
+(pdftex.def)             Requested size: 416.83289pt x 207.0357pt.
+ [76 <./images/Wave93.png> <./images/Wave94.png> <./images/Wave95.png>] <images
+/Wave96.png, id=1120, 1021.56656pt x 511.9125pt>
+File: images/Wave96.png Graphic file (type png)
+
+<use images/Wave96.png>
+Package pdftex.def Info: images/Wave96.png used on input line 161.
+(pdftex.def)             Requested size: 416.83289pt x 208.87003pt.
+
+<images/Wave97.png, id=1121, 1020.06094pt x 508.14844pt>
+File: images/Wave97.png Graphic file (type png)
+
+<use images/Wave97.png>
+Package pdftex.def Info: images/Wave97.png used on input line 163.
+(pdftex.def)             Requested size: 416.83289pt x 207.65211pt.
+
+<images/Wave98.png, id=1122, 1021.56656pt x 509.65407pt>
+File: images/Wave98.png Graphic file (type png)
+
+<use images/Wave98.png>
+Package pdftex.def Info: images/Wave98.png used on input line 166.
+(pdftex.def)             Requested size: 416.83289pt x 207.94855pt.
+ [77 <./images/Wave96.png> <./images/Wave97.png> <./images/Wave98.png>] <images
+/Wave99.png, id=1130, 1023.07219pt x 508.90125pt>
+File: images/Wave99.png Graphic file (type png)
+
+<use images/Wave99.png>
+Package pdftex.def Info: images/Wave99.png used on input line 171.
+(pdftex.def)             Requested size: 416.83289pt x 207.33855pt.
+
+<images/Wave991.png, id=1131, 1023.07219pt x 508.14844pt>
+File: images/Wave991.png Graphic file (type png)
+
+<use images/Wave991.png>
+Package pdftex.def Info: images/Wave991.png used on input line 173.
+(pdftex.def)             Requested size: 416.83289pt x 207.03183pt.
+
+<images/Wave992.png, id=1132, 1027.58907pt x 508.14844pt>
+File: images/Wave992.png Graphic file (type png)
+
+<use images/Wave992.png>
+Package pdftex.def Info: images/Wave992.png used on input line 175.
+(pdftex.def)             Requested size: 416.83289pt x 206.12463pt.
+ [78 <./images/Wave99.png> <./images/Wave991.png> <./images/Wave992.png>] <imag
+es/Wave993.png, id=1140, 1026.08344pt x 511.15968pt>
+File: images/Wave993.png Graphic file (type png)
+
+<use images/Wave993.png>
+Package pdftex.def Info: images/Wave993.png used on input line 180.
+(pdftex.def)             Requested size: 416.83289pt x 207.6503pt.
+
+<images/Wave994.png, id=1141, 1024.57782pt x 508.14844pt>
+File: images/Wave994.png Graphic file (type png)
+
+<use images/Wave994.png>
+Package pdftex.def Info: images/Wave994.png used on input line 182.
+(pdftex.def)             Requested size: 416.83289pt x 206.72943pt.
+
+<images/Wave995.png, id=1142, 1027.58907pt x 508.14844pt>
+File: images/Wave995.png Graphic file (type png)
+
+<use images/Wave995.png>
+Package pdftex.def Info: images/Wave995.png used on input line 184.
+(pdftex.def)             Requested size: 416.83289pt x 206.12463pt.
+ [79 <./images/Wave993.png> <./images/Wave994.png> <./images/Wave995.png>] <ima
+ges/Wave996.png, id=1150, 1023.07219pt x 509.65407pt>
+File: images/Wave996.png Graphic file (type png)
+
+<use images/Wave996.png>
+Package pdftex.def Info: images/Wave996.png used on input line 189.
+(pdftex.def)             Requested size: 416.83289pt x 207.64525pt.
+
+<images/Wave997.png, id=1151, 1021.56656pt x 506.6428pt>
+File: images/Wave997.png Graphic file (type png)
+
+<use images/Wave997.png>
+Package pdftex.def Info: images/Wave997.png used on input line 191.
+(pdftex.def)             Requested size: 416.83289pt x 206.7199pt.
+
+<images/Wave998.png, id=1152, 1026.08344pt x 505.13719pt>
+File: images/Wave998.png Graphic file (type png)
+
+<use images/Wave998.png>
+Package pdftex.def Info: images/Wave998.png used on input line 193.
+(pdftex.def)             Requested size: 416.83289pt x 205.20377pt.
+ [80 <./images/Wave996.png> <./images/Wave997.png> <./images/Wave998.png>] <ima
+ges/Wave999.png, id=1160, 1024.57782pt x 511.15968pt>
+File: images/Wave999.png Graphic file (type png)
+
+<use images/Wave999.png>
+Package pdftex.def Info: images/Wave999.png used on input line 198.
+(pdftex.def)             Requested size: 416.83289pt x 207.95448pt.
+
+<images/Wave9991.png, id=1161, 1024.57782pt x 505.89pt>
+File: images/Wave9991.png Graphic file (type png)
+
+<use images/Wave9991.png>
+Package pdftex.def Info: images/Wave9991.png used on input line 202.
+(pdftex.def)             Requested size: 416.83289pt x 205.81062pt.
+
+<images/Wave9992.png, id=1162, 1027.58907pt x 506.6428pt>
+File: images/Wave9992.png Graphic file (type png)
+
+<use images/Wave9992.png>
+Package pdftex.def Info: images/Wave9992.png used on input line 204.
+(pdftex.def)             Requested size: 416.83289pt x 205.5139pt.
+ [81 <./images/Wave999.png> <./images/Wave9991.png> <./images/Wave9992.png>]
+<images/Wave9993.png, id=1169, 1020.06094pt x 497.60907pt>
+File: images/Wave9993.png Graphic file (type png)
+
+<use images/Wave9993.png>
+Package pdftex.def Info: images/Wave9993.png used on input line 209.
+(pdftex.def)             Requested size: 416.83289pt x 203.34526pt.
+
+<images/Wave9995.png, id=1170, 1021.56656pt x 503.63156pt>
+File: images/Wave9995.png Graphic file (type png)
+
+<use images/Wave9995.png>
+Package pdftex.def Info: images/Wave9995.png used on input line 211.
+(pdftex.def)             Requested size: 416.83289pt x 205.49124pt.
+
+<images/Wave9996.png, id=1171, 1024.57782pt x 505.89pt>
+File: images/Wave9996.png Graphic file (type png)
+
+<use images/Wave9996.png>
+Package pdftex.def Info: images/Wave9996.png used on input line 213.
+(pdftex.def)             Requested size: 416.83289pt x 205.81062pt.
+ [82 <./images/Wave9993.png> <./images/Wave9995.png> <./images/Wave9996.png>]
+Overfull \hbox (11.44472pt too wide) in paragraph at lines 235--236
+[]\OT1/cmr/m/n/12 The PD wave-form wave gen-er-ated for dif-fer-ent void were s
+tud-ied for mag-ni-tude,
+ []
+
+[83]
+Overfull \hbox (8.28215pt too wide) in paragraph at lines 245--246
+[]\OT1/cmr/m/n/12 Partial dis-charge mea-sure-ment con-cludes the qual-ity and 
+strength of in-su-la-tion
+ []
+
+
+Overfull \hbox (2.31137pt too wide) in paragraph at lines 247--248
+[]\OT1/cmr/m/n/12 Specific phase re-lated rep-re-sen-ta-tion and as-sist and me
+a-sure the iden-ti-fi-ca-tion
+ []
+
+
+Overfull \hbox (2.9587pt too wide) in paragraph at lines 249--250
+\OT1/cmr/m/n/12 be-tween the test ob-ject has given dif-fer-ent PD pulses for s
+ame void con-di-tions. 
+ []
+
+[84] <images/WaveformsforTransient1.png, id=1198, 1017.04968pt x 484.81125pt>
+File: images/WaveformsforTransient1.png Graphic file (type png)
+
+<use images/WaveformsforTransient1.png>
+Package pdftex.def Info: images/WaveformsforTransient1.png used on input line 2
+57.
+(pdftex.def)             Requested size: 416.83289pt x 198.69992pt.
+
+<images/WaveformsforTransient2.png, id=1199, 1018.55531pt x 478.03593pt>
+File: images/WaveformsforTransient2.png Graphic file (type png)
+
+<use images/WaveformsforTransient2.png>
+Package pdftex.def Info: images/WaveformsforTransient2.png used on input line 2
+59.
+(pdftex.def)             Requested size: 416.83289pt x 195.63129pt.
+ [85 <./images/WaveformsforTransient1.png> <./images/WaveformsforTransient2.png
+>]
+<images/TWave1.png, id=1208, 1015.54407pt x 487.06969pt>
+File: images/TWave1.png Graphic file (type png)
+
+<use images/TWave1.png>
+Package pdftex.def Info: images/TWave1.png used on input line 272.
+(pdftex.def)             Requested size: 416.83289pt x 199.91539pt.
+ <images/TWave2.png, id=1209, 1017.04968pt x 481.8pt>
+File: images/TWave2.png Graphic file (type png)
+
+<use images/TWave2.png>
+Package pdftex.def Info: images/TWave2.png used on input line 274.
+(pdftex.def)             Requested size: 416.83289pt x 197.46576pt.
+
+<images/TWave3.png, id=1210, 1020.81375pt x 484.81125pt>
+File: images/TWave3.png Graphic file (type png)
+
+<use images/TWave3.png>
+Package pdftex.def Info: images/TWave3.png used on input line 276.
+(pdftex.def)             Requested size: 416.83289pt x 197.96754pt.
+ [86 <./images/TWave1.png> <./images/TWave2.png> <./images/TWave3.png>] <images
+/TWave4.png, id=1218, 1023.07219pt x 484.05844pt>
+File: images/TWave4.png Graphic file (type png)
+
+<use images/TWave4.png>
+Package pdftex.def Info: images/TWave4.png used on input line 283.
+(pdftex.def)             Requested size: 416.83289pt x 197.21698pt.
+
+<images/TWave5.png, id=1219, 1019.30812pt x 484.81125pt>
+File: images/TWave5.png Graphic file (type png)
+
+<use images/TWave5.png>
+Package pdftex.def Info: images/TWave5.png used on input line 285.
+(pdftex.def)             Requested size: 416.83289pt x 198.25606pt.
+
+<images/TWave6.png, id=1220, 1014.79124pt x 483.30562pt>
+File: images/TWave6.png Graphic file (type png)
+
+<use images/TWave6.png>
+Package pdftex.def Info: images/TWave6.png used on input line 287.
+(pdftex.def)             Requested size: 416.83289pt x 198.51794pt.
+ [87 <./images/TWave4.png> <./images/TWave5.png> <./images/TWave6.png>] <images
+/TWave7.png, id=1227, 1019.30812pt x 484.81125pt>
+File: images/TWave7.png Graphic file (type png)
+
+<use images/TWave7.png>
+Package pdftex.def Info: images/TWave7.png used on input line 292.
+(pdftex.def)             Requested size: 416.83289pt x 198.25606pt.
+
+<images/TWave8.png, id=1228, 1022.31938pt x 486.31688pt>
+File: images/TWave8.png Graphic file (type png)
+
+<use images/TWave8.png>
+Package pdftex.def Info: images/TWave8.png used on input line 294.
+(pdftex.def)             Requested size: 416.83289pt x 198.28554pt.
+
+<images/TWave9.png, id=1229, 1015.54407pt x 480.29437pt>
+File: images/TWave9.png Graphic file (type png)
+
+<use images/TWave9.png>
+Package pdftex.def Info: images/TWave9.png used on input line 296.
+(pdftex.def)             Requested size: 416.83289pt x 197.13449pt.
+ [88 <./images/TWave7.png> <./images/TWave8.png> <./images/TWave9.png>] <images
+/TWaveA.png, id=1238, 1016.29688pt x 481.04718pt>
+File: images/TWaveA.png Graphic file (type png)
+
+<use images/TWaveA.png>
+Package pdftex.def Info: images/TWaveA.png used on input line 303.
+(pdftex.def)             Requested size: 416.83289pt x 197.29668pt.
+
+<images/TWaveB.png, id=1239, 1017.8025pt x 486.31688pt>
+File: images/TWaveB.png Graphic file (type png)
+
+<use images/TWaveB.png>
+Package pdftex.def Info: images/TWaveB.png used on input line 305.
+(pdftex.def)             Requested size: 416.83289pt x 199.1686pt.
+
+<images/TWaveC.png, id=1240, 1020.81375pt x 483.30562pt>
+File: images/TWaveC.png Graphic file (type png)
+
+<use images/TWaveC.png>
+Package pdftex.def Info: images/TWaveC.png used on input line 307.
+(pdftex.def)             Requested size: 416.83289pt x 197.35275pt.
+ [89 <./images/TWaveA.png> <./images/TWaveB.png> <./images/TWaveC.png>] <images
+/TWaveD.png, id=1248, 1014.03844pt x 484.05844pt>
+File: images/TWaveD.png Graphic file (type png)
+
+<use images/TWaveD.png>
+Package pdftex.def Info: images/TWaveD.png used on input line 312.
+(pdftex.def)             Requested size: 416.83289pt x 198.97488pt.
+
+<images/TWaveE.png, id=1249, 1013.28563pt x 484.05844pt>
+File: images/TWaveE.png Graphic file (type png)
+
+<use images/TWaveE.png>
+Package pdftex.def Info: images/TWaveE.png used on input line 314.
+(pdftex.def)             Requested size: 416.83289pt x 199.1226pt.
+ <images/TWaveF.png, id=1250, 1017.8025pt x 487.8225pt>
+File: images/TWaveF.png Graphic file (type png)
+
+<use images/TWaveF.png>
+Package pdftex.def Info: images/TWaveF.png used on input line 316.
+(pdftex.def)             Requested size: 416.83289pt x 199.7852pt.
+ [90 <./images/TWaveD.png> <./images/TWaveE.png> <./images/TWaveF.png>] <images
+/TWaveG.png, id=1258, 1019.30812pt x 483.30562pt>
+File: images/TWaveG.png Graphic file (type png)
+
+<use images/TWaveG.png>
+Package pdftex.def Info: images/TWaveG.png used on input line 323.
+(pdftex.def)             Requested size: 416.83289pt x 197.64037pt.
+
+<images/TWaveH.png, id=1259, 1017.8025pt x 482.55281pt>
+File: images/TWaveH.png Graphic file (type png)
+
+<use images/TWaveH.png>
+Package pdftex.def Info: images/TWaveH.png used on input line 325.
+(pdftex.def)             Requested size: 416.83289pt x 197.62703pt.
+
+<images/TWaveI.png, id=1260, 1020.81375pt x 483.30562pt>
+File: images/TWaveI.png Graphic file (type png)
+
+<use images/TWaveI.png>
+Package pdftex.def Info: images/TWaveI.png used on input line 327.
+(pdftex.def)             Requested size: 416.83289pt x 197.35275pt.
+ [91 <./images/TWaveG.png> <./images/TWaveH.png> <./images/TWaveI.png>] <images
+/TWaveJ.png, id=1268, 1011.78pt x 480.29437pt>
+File: images/TWaveJ.png Graphic file (type png)
+
+<use images/TWaveJ.png>
+Package pdftex.def Info: images/TWaveJ.png used on input line 332.
+(pdftex.def)             Requested size: 416.83289pt x 197.87468pt.
+
+<images/TWaveK.png, id=1269, 1017.8025pt x 481.04718pt>
+File: images/TWaveK.png Graphic file (type png)
+
+<use images/TWaveK.png>
+Package pdftex.def Info: images/TWaveK.png used on input line 334.
+(pdftex.def)             Requested size: 416.83289pt x 197.0104pt.
+
+<images/TWaveL.png, id=1270, 1015.54407pt x 481.04718pt>
+File: images/TWaveL.png Graphic file (type png)
+
+<use images/TWaveL.png>
+Package pdftex.def Info: images/TWaveL.png used on input line 336.
+(pdftex.def)             Requested size: 416.83289pt x 197.44348pt.
+ [92 <./images/TWaveJ.png> <./images/TWaveK.png> <./images/TWaveL.png>] <images
+/TWaveM.png, id=1278, 1019.30812pt x 482.55281pt>
+File: images/TWaveM.png Graphic file (type png)
+
+<use images/TWaveM.png>
+Package pdftex.def Info: images/TWaveM.png used on input line 341.
+(pdftex.def)             Requested size: 416.83289pt x 197.3325pt.
+
+<images/TWaveN.png, id=1279, 1008.01593pt x 484.81125pt>
+File: images/TWaveN.png Graphic file (type png)
+
+<use images/TWaveN.png>
+Package pdftex.def Info: images/TWaveN.png used on input line 343.
+(pdftex.def)             Requested size: 416.83289pt x 200.47534pt.
+
+<images/TWaveO.png, id=1280, 1019.30812pt x 480.29437pt>
+File: images/TWaveO.png Graphic file (type png)
+
+<use images/TWaveO.png>
+Package pdftex.def Info: images/TWaveO.png used on input line 345.
+(pdftex.def)             Requested size: 416.83289pt x 196.40895pt.
+ [93 <./images/TWaveM.png> <./images/TWaveN.png> <./images/TWaveO.png>] <images
+/TWaveP.png, id=1288, 1020.06094pt x 480.29437pt>
+File: images/TWaveP.png Graphic file (type png)
+
+<use images/TWaveP.png>
+Package pdftex.def Info: images/TWaveP.png used on input line 352.
+(pdftex.def)             Requested size: 416.83289pt x 196.2697pt.
+
+<images/TWaveQ.png, id=1289, 1017.04968pt x 480.29437pt>
+File: images/TWaveQ.png Graphic file (type png)
+
+<use images/TWaveQ.png>
+Package pdftex.def Info: images/TWaveQ.png used on input line 354.
+(pdftex.def)             Requested size: 416.83289pt x 196.84866pt.
+ <images/TWaveR.png, id=1290, 1017.04968pt x 481.8pt>
+File: images/TWaveR.png Graphic file (type png)
+
+<use images/TWaveR.png>
+Package pdftex.def Info: images/TWaveR.png used on input line 356.
+(pdftex.def)             Requested size: 416.83289pt x 197.46576pt.
+ [94 <./images/TWaveP.png> <./images/TWaveQ.png> <./images/TWaveR.png>] <images
+/TWaveS.png, id=1299, 1021.56656pt x 481.04718pt>
+File: images/TWaveS.png Graphic file (type png)
+
+<use images/TWaveS.png>
+Package pdftex.def Info: images/TWaveS.png used on input line 361.
+(pdftex.def)             Requested size: 416.83289pt x 196.2764pt.
+
+<images/TWaveT.png, id=1300, 1014.03844pt x 483.30562pt>
+File: images/TWaveT.png Graphic file (type png)
+
+<use images/TWaveT.png>
+Package pdftex.def Info: images/TWaveT.png used on input line 363.
+(pdftex.def)             Requested size: 416.83289pt x 198.66544pt.
+ [95 <./images/TWaveS.png> <./images/TWaveT.png>]
+
+LaTeX Warning: Citation `bengtsson1997procedure' on page 96 undefined on input 
+line 383.
+
+
+Overfull \hbox (23.65889pt too wide) in paragraph at lines 393--403
+ [][] 
+ []
+
+[96]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+Overfull \hbox (36.8345pt too wide) in paragraph at lines 426--438
+ [][] 
+ []
+
+
+Overfull \hbox (12.48164pt too wide) in paragraph at lines 440--441
+\OT1/cmr/m/n/12 cal-cu-lated. Pulse wave-forms for these wave-forms show par-ti
+al dis-charge phe-nomenon. 
+ []
+
+[97] [98]
+Overfull \hbox (10.77998pt too wide) in paragraph at lines 478--505
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[99
+
+] [100]) [101
+
+]
+Chapter 5.
+(chapters/Conclusion.tex [102
+
+] [103] [104
+
+]) (chapters/Back.tex
+Overfull \hbox (2.3248pt too wide) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/12 In an in-su-la-tor, elec-trons are tightly bound to atoms and
+ molecules. With mod-er-ate
+ []
+
+[105
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [106]
+Overfull \hbox (7.3377pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/12 The com-bi-na-tion of volt-age val-ues which char-ac-ter-ize th
+e in-su-la-tion of an in-stru-ment
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+[107]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no • in font cmr12!
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no º in font cmr12!
+
+Overfull \hbox (1.2129pt too wide) in paragraph at lines 63--63
+[][]\OT1/cmr/bx/n/17.28 Rated Chopped Wave Im-pulse With-stand volt-age,
+ []
+
+
+Overfull \hbox (4.46135pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/12 Hz, which the in-stru-ment trans-former is de-signed to op-er-a
+te in Stan-dard fre-quen-cies
+ []
+
+[108] [109]
+Overfull \hbox (1.46277pt too wide) in paragraph at lines 91--92
+\OT1/cmr/m/n/12 Current trans-former can be de-signed with ei-ther pri-mary or 
+sec-ondary re-con-nec-tion
+ []
+
+[110] [111] [112] [113
+
+] (main.bbl
+Underfull \hbox (badness 2961) in paragraph at lines 37--40
+[]\OT1/cmr/m/n/12 M. Danikas, ``Some new re-la-tion-ships and a scal-ing law re
+-gard-ing
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 48--53
+\OT1/cmr/m/n/12 purpose anal-y-sis pro-grams,'' in \OT1/cmr/m/it/12 Pro-ceed-in
+gs of the 1998 IEEE 6th
+ []
+
+[114
+
+
+]
+Underfull \hbox (badness 5175) in paragraph at lines 77--80
+[]\OT1/cmr/m/n/12 R. Bart-nikas, ``Par-tial dis-charges. their mech-a-nism, de-
+tec-tion and
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 98--101
+[]\OT1/cmr/m/n/12 F. H. Kreuger, \OT1/cmr/m/it/12 Par-tial dis-charge de-tec-ti
+on in high-voltage equip-ment\OT1/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 117--121
+\OT1/cmr/m/n/12 cylin-dri-cal model in solid di-electrics,'' in \OT1/cmr/m/it/1
+2 In-ter-na-tional Con-fer-ence on
+ []
+
+[115]
+Underfull \hbox (badness 2261) in paragraph at lines 129--132
+[]\OT1/cmr/m/n/12 Standard IEC 60270, ``High volt-age test techniques-partial d
+is-charge
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 145--147
+[]\OT1/cmr/m/n/12 C. Bengts-son, ``Sta-tus and trends in trans-former mon-i-tor
+-ing,'' \OT1/cmr/m/it/12 IEEE
+ []
+
+[116]
+Underfull \hbox (badness 1067) in paragraph at lines 179--182
+[]\OT1/cmr/m/n/12 Standard IEC 60270, ``High-voltage test tech-niques: par-tial
+ dis-charge
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 217--221
+[]\OT1/cmr/m/n/12 P. G. Reddy and P. Kundu, ``De-tec-tion and anal-y-sis of par
+-tial
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 217--221
+\OT1/cmr/m/n/12 dis-charge us-ing ul-tra high fre-quency sen-sor,'' in \OT1/cmr
+/m/it/12 An-nual In-ter-na-tional
+ []
+
+[117]
+Underfull \hbox (badness 2237) in paragraph at lines 223--226
+[]\OT1/cmr/m/n/12 S. Co-enen \OT1/cmr/m/it/12 et al.\OT1/cmr/m/n/12 , ``Sen-si-
+tiv-ity of UHF PD mea-sure-ments in power
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 233--237
+[]\OT1/cmr/m/n/12 M.-K. Chen \OT1/cmr/m/it/12 et al.\OT1/cmr/m/n/12 , ``Time do
+-main de-tec-tion of par-tial dis-charge in
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 244--248
+\OT1/cmr/m/n/12 de-tec-tion,'' in \OT1/cmr/m/it/12 An-nual Report--Conference o
+n Elec-tri-cal In-su-la-tion and
+ []
+
+Missing character: There is no ‚ in font cmti12!
+Missing character: There is no Ä in font cmti12!
+Missing character: There is no ú in font cmti12!
+[118]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 1990) in paragraph at lines 275--279
+\OT1/cmr/m/n/12 mon-i-tor-ing sys-tems dur-ing tests at con-sol-i-dated edis-on
+s sta-tion,'' in
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 1990) in paragraph at lines 281--285
+\OT1/cmr/m/n/12 mon-i-tor-ing sys-tems dur-ing tests at con-sol-i-dated edis-on
+s sta-tion,'' in
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 320--323
+[]\OT1/cmr/m/n/12 T. Oro-zova, ``Di-elec-tric with-stands strength of in-ter-na
+l in-su-la-tion of
+ []
+
+[119]) [120])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 8248D63A175FF03F901C72D5536365D7;4670
+(rerunfilecheck)             After:  A9F5C017312A8C849BE9B0F3908DCD3E;4770.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 190.
+ ) 
+Here is how much of TeX's memory you used:
+ 21382 strings out of 493328
+ 401744 string characters out of 3139116
+ 460220 words of memory out of 3000000
+ 24121 multiletter control sequences out of 15000+200000
+ 545492 words of font info for 79 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,12n,43p,10378b,972s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{figure.caption.71} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.69} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.66} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.51} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.47} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.43} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.36} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.29} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.27} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.24} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.21} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.14} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.72} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.55} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.77} has been referenced but does not exist
+, replaced by a fixed one
+
+ <C:\Users\Priyanka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (135 pages, 3702671 bytes).
+PDF statistics:
+ 1654 PDF objects out of 1728 (max. 8388607)
+ 428 named destinations out of 1000 (max. 500000)
+ 991 words of extra memory for PDF output out of 10000 (max. 10000000)
