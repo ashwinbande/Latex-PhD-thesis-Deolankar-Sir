@@ -22,7 +22,7 @@
 \vspace{1cm}
 \textbf{\normalsize FACULTY OF ELECTRICAL ENGINEERING}\\
 \textbf{\large Dr. BABASAHEB AMBEDKAR MARATHWADA UNVIERSITY, AURANGABAD-431 004 (MS), INDIA\\
-SEPTEMBER - 2017}
+OCTOBER - 2017}
 \end{center}
 \clearpage
 %-------------------------SECOND PAGE------------------------------------------------------
@@ -50,7 +50,7 @@ SEPTEMBER - 2017}
 \small Aurangabad - 431 004 (MS) INDIA
 \vspace{2cm}
 
-\textbf{\textit{\large SEPTEMBER 2017}}
+\textbf{\textit{\large OCTOBER 2017}}
 \clearpage
 %-----------------------INSIDE COVER PAGE -----------------------------------------------------
 \begin{center}
@@ -73,11 +73,11 @@ SEPTEMBER - 2017}
 \vspace{1cm}
 \textbf{\large FACULTY OF ELECTRICAL ENGINEERING}\\
 \textbf{\large Dr. BABASAHEB AMBEDKAR MARATHWADA UNVIERSITY, AURANGABAD-431 004 (MS), INDIA\\
-SEPTEMBER - 2017}
+OCTOBER - 2017}
 \end{center}
 \clearpage
 
-\pagenumbering{roman}
+
 %-----------------------CERTIFICATE-------------------------------------------------------------
 \begin{center}
 \large \textbf{Dr. Babasaheb Ambedkar Marathwada University\\
@@ -85,7 +85,7 @@ Aurangabad (M. S.) - 431 004}\\
 \vspace{0.5cm}
 \includegraphics[width=.3\textwidth]{universityLOGO}\\
 \vspace{0.5cm}
-\addcontentsline{toc}{chapter}{\numberline{}Certificate}
+%\addcontentsline{toc}{chapter}{\numberline{}Certificate}
 \textbf{\large CERTIFICATE}\\
 \end{center}
 \normalsize This is to certify that the thesis entitled \textbf{\textquotedblleft Partial Discharge Analysis in Oil Filled Current Transformers 145 kV up to 3000 A\textquotedblright}, which is being submitted herewith for the award of the \textbf{\textquoteleft Degree of Doctor of Philosophy\textquoteright ~in \textquoteleft Electrical ~Engineering\textquoteright} of \textbf{~Dr. Babasaheb Ambedkar ~Marathwada University, Aurangabad}. This is the result of the Original Research Work and Contribution by \textbf{\textquoteleft Vinayak Shankarrao Deolankar\textquoteright} under my supervision and guidance at Government College of Engineering, Aurangabad. The work embodied in this thesis has not formed earlier for the basis of the award of any degree or compatible certificate or similar title of this for any other diploma/examining body or university to the best of knowledge and belief. 
@@ -109,7 +109,7 @@ Dr. Babasaheb Ambedkar Marathwada\\University, Aurangabad\\
 \clearpage
 %-----------------------ABSTRACT-------------------------------------------------------------
 \chapter*{ABSTRACT}
-\addcontentsline{toc}{chapter}{\numberline{}Abstract}
+%\addcontentsline{toc}{chapter}{\numberline{}Abstract}
 \input{chapters/Abstract}
 \clearpage
 
@@ -120,7 +120,7 @@ Aurangabad (M. S.) - 431 004}\\
 \vspace{0.5cm}
 \includegraphics[width=.3\textwidth]{universityLOGO}\\
 \vspace{0.5cm}
-\addcontentsline{toc}{chapter}{\numberline{}Declaration}
+%\addcontentsline{toc}{chapter}{\numberline{}Declaration}
 \textbf{\large DECLARATION}\\
 \end{center}
 
@@ -170,25 +170,3 @@ Research Scholar
 %
 %\clearpage
 
-%-----------------------ACKNOWLEDGEMENT------------------------------------------------------
-
-\begin{center}
-\large \textbf{ACKNOWLEDGEMENT}
-\addcontentsline{toc}{chapter}{\numberline{}Acknowledgement}
-\end{center}
-
-\setlength{\parskip}{1em}
-\justify \normalsize I, take this opportunity to thank my guide \textbf{Dr. W. Z. Gandhare, Director, G. S. Moze College of Engineering, Pune} for his intense valuable guidance and constant motivation during the entire research work.
-
-I wish to thank Internal Monitoring Committee Members \textbf{Dr. M. G. Shaikh, Dr. Mrs. A. S. Bhalchandra, Dr. R. V. Shetkar} and \textbf{Dr. A. G. Thosar}, Head of Electrical Engineering Department, Government College of Engineering, Aurangabad for their valuable support, suggestions and extending all the facilities for completion of this research work. I would like to appreciate the support and help given by my colleagues and all staff members of the institute.
-
-I am thankful to \textbf{Dr. P. V. Murnal}, Principal, Government College of Engineering, Aurangabad for his valuable suggestions which helped me to accomplish this task. 
-
-Finally, I would like to thank my brothers \textbf{Dr. Deepak, Mrs. Nilima} and \textbf{Dr. Vivek, Mrs. Jayeshsree} for their inspiration from childhood to till this study, wife \textbf{Mrs. Anupama}, children \textbf{Veena} and \textbf{Vaibhav} for their help and consistent encouragement without which it could not be possible for me to complete the research work.
-
-
-\setlength{\parskip}{0em}
-\vspace{2cm}
-\begin{flushright}
-\textbf{Vinayak Shankarrao Deolankar}
-\end{flushright}
